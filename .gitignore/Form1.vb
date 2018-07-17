@@ -1,4 +1,11 @@
-﻿Public Class Form1
+'*************************************
+'
+' Author: Mr. Zhang
+' Email: zhangj@bmg.vic.edu.au
+'
+'*************************************
+
+Public Class Form1
 
     Private Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
         ' Calculate relevant home loan information based on the inputs.
