@@ -7,6 +7,7 @@
 
 Public Class Form1
 
+    ' Comment
     Private Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
         ' Calculate relevant home loan information based on the inputs.
         ' Input Variables
